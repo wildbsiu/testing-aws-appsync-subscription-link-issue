@@ -1,4 +1,4 @@
-Sample Angular v12 app to showcase/reproducte issue: https://github.com/awslabs/aws-mobile-appsync-sdk-js/issues/713
+Sample Angular v12 app to showcase/reproduce issue: https://github.com/awslabs/aws-mobile-appsync-sdk-js/issues/713
 
 Run `ng build` command to reproduce the errors like:
 
